@@ -1,0 +1,2947 @@
+<?xml version="1.0"  encoding ="utf-8"?>
+<contextfile filename="دور" fileno="1">
+	<sentence s_id="1">
+		<wf pos="NNPC">چوٗدٕرۍ</wf>
+		<wf pos="NNP">باغَس</wf>
+		<wf pos="PSP">مُتلِق</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="RB">یِتِہ</wf>
+		<wf pos="VAUX">آمُت</wf>
+		<wf pos="VM">وَننہٕ</wf>
+		<wf pos="DEM">زِ</wf>
+		<wf pos="NN">گورنر</wf>
+		<wf pos="NNPC">سیف</wf>
+		<wf pos="NNP">خان</wf>
+		<wf pos="PSP">سُند</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="QC">۱۶۶۵ـ۶۷ء</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="QC">۱۶۶۹ـ۷۲ء</wf>
+		<wf pos="NNP">کٔشیٖرِ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="PRP">تٔمۍ</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="NNPC">چوٗدٕرۍ</wf>
+		<wf pos="NNP">باغ</wf>
+		<wf pos="VM">شیوٗر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="2">
+		<wf pos="NNP">مۄغل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">کۍو</wf>
+		<wf pos="PRP">کینٛژو</wf>
+		<wf pos="NN">لِکھارۍو</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">لیٚکھن</wf>
+		<wf pos="CC">تٕہ</wf>
+		<wf pos="NNP">سفرنامن</wf>
+		<wf pos="PSP">اندر</wf>
+		<wf pos="NNP">سرینگر</wf>
+		<wf pos="NN">شہرُک</wf>
+		<wf pos="NN">زِکٕر</wf>
+		<wf pos="NNP">کٔشیٖر</wf>
+		<wf pos="VM">ؤنِتھ</wf>
+		<wf pos="CC">تِہ</wf>
+		<wf pos="VM">کوٚرمت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="3">
+		<wf pos="NN">راز</wf>
+		<wf pos="NNP">اشوکس</wf>
+		<wf pos="RB">پَتہ</wf>
+		<wf pos="VM">روٗد</wf>
+		<wf pos="DEM">یـہ</wf>
+		<wf pos="NN">شہر</wf>
+		<wf pos="RB">لگ</wf>
+		<wf pos="POW">بھگ</wf>
+		<wf pos="QC">ٲٹھن</wf>
+		<wf pos="QC">شیٚتن</wf>
+		<wf pos="NN">ؤرۍین</wf>
+		<wf pos="NNP">کٔشیٖر</wf>
+		<wf pos="PSP">ہٕنٛز</wf>
+		<wf pos="NN">رازٕدٲنی</wf>
+		<wf pos="RP">تہٕ</wf>
+		<wf pos="DEM">یـہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="PSP">سُہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="DEM">یتھ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NNP">گوپادٔری</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NNP">اَتہٕ</wf>
+		<wf pos="POW">گُج</wf>
+		<wf pos="NNPC">,پانٛتہٕ</wf>
+		<wf pos="NNP">چھۄکھ</wf>
+		<wf pos="CC">تٕہ</wf>
+		<wf pos="NNP">وۄلر</wf>
+		<wf pos="NN">پرگَنہٕ</wf>
+		<wf pos="PSP">علاوٕ</wf>
+		<wf pos="NN">ڈل</wf>
+		<wf pos="NN">بٔٹِھس</wf>
+		<wf pos="PSP">پۍٹھ</wf>
+		<wf pos="NNP">زیکہارون</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="PRP">کینٛہہ</wf>
+		<wf pos="NN">وِہار</wf>
+		<wf pos="NN">بیترٕ</wf>
+		<wf pos="VM">تعمیر</wf>
+		<wf pos="VM">کرنٕہ</wf>
+		<wf pos="VM">آیِہ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="4">
+		<wf pos="QC">ژۄدٲہمِہ</wf>
+		<wf pos="NN">صٔدی</wf>
+		<wf pos="PSP">ہٕنٛدِس</wf>
+		<wf pos="QC">ژوٗرۍ</wf>
+		<wf pos="POW">مِس</wf>
+		<wf pos="NN">دٔہۍلِس</wf>
+		<wf pos="PSP">کیت</wf>
+		<wf pos="VAUX">گۄو</wf>
+		<wf pos="NNP">کٔشیٖر</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NNP">سلاطینُن</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">شروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="5">
+		<wf pos="NNP">مُسلمان</wf>
+		<wf pos="NN">کٲرۍگرَو</wf>
+		<wf pos="CC">یوٚدوے</wf>
+		<wf pos="NN">تعمیٖر</wf>
+		<wf pos="RB">یسلہٕ</wf>
+		<wf pos="POW">پٲٹھۍ</wf>
+		<wf pos="NN">لٔکٕر</wf>
+		<wf pos="VM">لٲج</wf>
+		<wf pos="CC">اَماپوٚز</wf>
+		<wf pos="NNC">میر</wf>
+		<wf pos="NN">کامِہ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">کنۍن</wf>
+		<wf pos="PSP">ہٕنٛدی</wf>
+		<wf pos="PRP">کینٛہہ</wf>
+		<wf pos="JJ">جان</wf>
+		<wf pos="NN">تعمیٖر</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="RP">تِہ</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="DEM">یہٕ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">مانٛنہٕ</wf>
+		<wf pos="NN">اوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="6">
+		<wf pos="NNP">ژک</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">کۍو</wf>
+		<wf pos="NN">تعمیٖرو</wf>
+		<wf pos="PSP">أندرٕ</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="NNP">حسن</wf>
+		<wf pos="POW">آباد</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NNP">زٔڈۍ</wf>
+		<wf pos="POW">بلٕ</wf>
+		<wf pos="PSP">کۍ</wf>
+		<wf pos="NNP">امام</wf>
+		<wf pos="POW">باڈٕ</wf>
+		<wf pos="UNK:?">خطِ</wf>
+		<wf pos="UNK:?">ثلُث</wf>
+		<wf pos="UNK:?">تہٕ</wf>
+		<wf pos="UNK:?">ریٖحٲن</wf>
+		<wf pos="NN">وَرتاوس</wf>
+		<wf pos="VM">اَننہٕ</wf>
+		<wf pos="PSP">کنۍ</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="PRP">یِمَن</wf>
+		<wf pos="NNP">اِمام</wf>
+		<wf pos="POW">باڈن</wf>
+		<wf pos="PSP">ہٕنٛدۍن</wf>
+		<wf pos="NN">صٔحنَن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PRP">کینٛہہ</wf>
+		<wf pos="NN">یادگار</wf>
+		<wf pos="NN">چیٖز</wf>
+		<wf pos="VM">موٗجوٗد</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="7">
+		<wf pos="QC">۱۷۵۲ء</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="VAUX">گۄو</wf>
+		<wf pos="NNP">کٔشیٖر</wf>
+		<wf pos="PSP">اَندر</wf>
+		<wf pos="NNP">پٹھان</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">شروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="8">
+		<wf pos="DEM">اَمِہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">کۍ</wf>
+		<wf pos="NN">یادگار</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NNPC">ہارِ</wf>
+		<wf pos="NNP">پربتُک</wf>
+		<wf pos="NN">قلعہٕ</wf>
+		<wf pos="CC">تٕہ</wf>
+		<wf pos="NNPC">شیر</wf>
+		<wf pos="NNP">گڑۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="9">
+		<wf pos="NNP">سِکھن</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">یِلہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNPC">کٲٹھۍ</wf>
+		<wf pos="NNP">دروازس</wf>
+		<wf pos="NST">نیٛبرٕ</wf>
+		<wf pos="POW">کنہِ</wf>
+		<wf pos="VM">بنیوو</wf>
+		<wf pos="NNPC">چھٹی</wf>
+		<wf pos="NNP">پادشٲہی</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="NN">گرُدُوارٕ</wf>
+		<wf pos="PRP">اَمیک</wf>
+		<wf pos="NN">تعمیٖر</wf>
+		<wf pos="RP">تِہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NNP">کٔشییرٕ</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="RB">باقٕے</wf>
+		<wf pos="NN">تعمیٖرن</wf>
+		<wf pos="RB">ہندۍ</wf>
+		<wf pos="POW">پٲٹھۍ</wf>
+		<wf pos="NN">لٔکرِ</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="10">
+		<wf pos="RB">پگاہ</wf>
+		<wf pos="VM">گٔژھ</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھۍ</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="NN">دُیِم</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="NN">ختَم</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="11">
+		<wf pos="NNP">ڈوگرٕ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">سۍ</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="VM">بدلیوو</wf>
+		<wf pos="QC">اکہ</wf>
+		<wf pos="NN">حسابٕہ</wf>
+		<wf pos="NNP">کٲشرن</wf>
+		<wf pos="NN">تعمیرن</wf>
+		<wf pos="PSP">ہند</wf>
+		<wf pos="JJ">روایتی</wf>
+		<wf pos="NN">طرز</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">فنِ</wf>
+		<wf pos="NN">تعمیٖر</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="VM">آو</wf>
+		<wf pos="RB">یسلہٕ</wf>
+		<wf pos="POW">پٲٹھۍ</wf>
+		<wf pos="NNP">انگریٖزۍ</wf>
+		<wf pos="VM">گرتھ</wf>
+		<wf pos="NN">استعمال</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="12">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیم</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VAUX">گژھ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="VM">شُروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="13">
+		<wf pos="JJ">شخصی</wf>
+		<wf pos="NN">راج</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">سۍ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="JJ">دُپندلٲزی</wf>
+		<wf pos="NN">حٲکۍمن</wf>
+		<wf pos="PSP">ہٕندِس</wf>
+		<wf pos="NN">مزارس</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="RB">بٔسِتھ</wf>
+		<wf pos="VM">آسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="14">
+		<wf pos="DEM">یمہٕ</wf>
+		<wf pos="NN">جنگی</wf>
+		<wf pos="NN">جہاز</wf>
+		<wf pos="PSP">ستۍ</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="JJ">پُرون</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">یاد</wf>
+		<wf pos="VAUX">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="15">
+		<wf pos="NNP">سجادن</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">وٲنسہِ</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="JJ">پُرجوش</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="NN">باپار</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="VM">گُزورمُت</wf>
+		<wf pos="CC">مگر</wf>
+		<wf pos="JJ">بٚےسونچ</wf>
+		<wf pos="RDP">دینہٕ</wf>
+		<wf pos="PSP">کنۍ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="PRP">تٔمۍ</wf>
+		<wf pos="JJ">سورُے</wf>
+		<wf pos="PRP">کینٛہہ</wf>
+		<wf pos="VM">راوٕروومُت</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="RB">وۄنۍ</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="PRP">تسٕنزِ</wf>
+		<wf pos="NN">حالت</wf>
+		<wf pos="RB">مسا</wf>
+		<wf pos="QC">أکس</wf>
+		<wf pos="NN">بیچھِؤنۍ</wf>
+		<wf pos="PSP">سٕندِ</wf>
+		<wf pos="RP">کھوتہٕ</wf>
+		<wf pos="RP">ہناہ</wf>
+		<wf pos="JJ">بٮ۪ہتر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="16">
+		<wf pos="NN">زندگیہِ</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="JJ">زیوٗٹھ</wf>
+		<wf pos="NN">تجرُبہٕ</wf>
+		<wf pos="PSP">کس</wf>
+		<wf pos="NN">بِناہس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="VM">وَنہٕ</wf>
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="PRP">توہہِ</wf>
+		<wf pos="DEM">زِ</wf>
+		<wf pos="NN">جوٲنی</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="QC">دوٚیِم</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">گزارنہٕ</wf>
+		<wf pos="PSP">باپت</wf>
+		<wf pos="VAUX">پَزن</wf>
+		<wf pos="PRP">توہہِ</wf>
+		<wf pos="PRP">کیٚنہہ</wf>
+		<wf pos="JJ">رہنما</wf>
+		<wf pos="NN">اصوٗل</wf>
+		<wf pos="NN">سرٕ</wf>
+		<wf pos="RDP">کھرٕ</wf>
+		<wf pos="VM">کرٕنۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="17">
+		<wf pos="PRP">أمِس</wf>
+		<wf pos="NN">سوداگارس</wf>
+		<wf pos="VM">رُود</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="NN">کۄکرن</wf>
+		<wf pos="NN">پَھل</wf>
+		<wf pos="VM">تراوُن</wf>
+		<wf pos="NN">یادٕے</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">نیٔندٕرِ</wf>
+		<wf pos="VM">ووتھ</wf>
+		<wf pos="PRP">أمِس</wf>
+		<wf pos="VM">پیٚوو</wf>
+		<wf pos="PRP">پنُن</wf>
+		<wf pos="NN">مشرب</wf>
+		<wf pos="NN">یاد</wf>
+		<wf pos="VM">تُجن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="RB">ووٗت</wf>
+		<wf pos="NN">کۄکر</wf>
+		<wf pos="POW">مَرٮ۪ن</wf>
+		<wf pos="PSP">نِش</wf>
+		<wf pos="JJ">سٲری</wf>
+		<wf pos="NN">کۄکر</wf>
+		<wf pos="VM">وٕچِھن</wf>
+		<wf pos="RB">اَکہِ</wf>
+		<wf pos="RDP">اَکہِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="18">
+		<wf pos="NN">کۄکرٮ۪و</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="VM">وُچھ</wf>
+		<wf pos="CC">زِ</wf>
+		<wf pos="PRP">أمِس</wf>
+		<wf pos="RP">ہا</wf>
+		<wf pos="VAUX">سپٕز</wf>
+		<wf pos="PRP">کیاہتام</wf>
+		<wf pos="JJ">اَلِگے</wf>
+		<wf pos="NN">یٲری،</wf>
+		<wf pos="PRP">تِمو</wf>
+		<wf pos="VM">نِیہِ</wf>
+		<wf pos="NN">شِی</wf>
+		<wf pos="VM">کٔرِتھ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">دٔچھِنۍ</wf>
+		<wf pos="NN">کھووٕرۍ</wf>
+		<wf pos="VM">لَجہ</wf>
+		<wf pos="VM">چھٔکرنہٕ</wf>
+		<wf pos="VAUX">آمٕتۍ</wf>
+		<wf pos="NN">پھٔلۍ</wf>
+		<wf pos="VM">وَٹنہِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="19">
+		<wf pos="NNP">صمٕدۍ</wf>
+		<wf pos="VM">وُونُکھ”</wf>
+		<wf pos="VM">گٔژِھو</wf>
+		<wf pos="PRP">تُوہۍ</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="RB">تُورۍ,</wf>
+		<wf pos="VM:?">أنِیو</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="NN">حاجت</wf>
+		<wf pos="VM">چُھوٕ“</wf>
+		<wf pos="NNP">احمٕدۍ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NNP">محمٕدۍ</wf>
+		<wf pos="INTF">یِیتۍ</wf>
+		<wf pos="JJ">بدماش</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="INTF">تیژ</wf>
+		<wf pos="VAUX">ٲسٕخ</wf>
+		<wf pos="JJ">کم</wf>
+		<wf pos="NN">عقٕل</wf>
+		<wf pos="PRP">تِمو</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="20">
+		<wf pos="NN">وقایہِ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">عقٲیِد</wf>
+		<wf pos="PRP">دۄشوٕے</wf>
+		<wf pos="NN">کتابہٕ</wf>
+		<wf pos="VAUX">چھٚے</wf>
+		<wf pos="PRP">سانہِ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="NN">زبٲنۍ</wf>
+		<wf pos="PSP">ہٕنٛدِ</wf>
+		<wf pos="PSP">لحاظہٕ</wf>
+		<wf pos="JJ">اہم</wf>
+		<wf pos="DEM">اَمہِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">کٮ۪و</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="PRP">کنہِ</wf>
+		<wf pos="NN">شایہِ</wf>
+		<wf pos="NN">عالم</wf>
+		<wf pos="VAUX">آسنُک</wf>
+		<wf pos="NN">باس</wf>
+		<wf pos="VM">دِتھ</wf>
+		<wf pos="NN">زبان</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="JJ">بیلغ</wf>
+		<wf pos="VM">بنٲومٕژ</wf>
+		<wf pos="CC">تَوے</wf>
+		<wf pos="VAUX">چھ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="PRP">سانہِ</wf>
+		<wf pos="NN">زبٲنۍ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PSP">یَس</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">فارٕسِیت</wf>
+		<wf pos="NN">نظرِ</wf>
+		<wf pos="VM">گژھان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="21">
+		<wf pos="QC">أکس</wf>
+		<wf pos="JJ">اوسوٗدٕ</wf>
+		<wf pos="POW">حال</wf>
+		<wf pos="NNC">ژٕنہِ</wf>
+		<wf pos="NN">باپٲرۍ</wf>
+		<wf pos="PSP">سٕنٛز</wf>
+		<wf pos="NN">کوٗر</wf>
+		<wf pos="VM">ٲسِتھ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="DEM">تَمہِ</wf>
+		<wf pos="RB">صرف</wf>
+		<wf pos="QC">ترٛے</wf>
+		<wf pos="NN">ؤری</wf>
+		<wf pos="RB">برٛۄنٛہہ</wf>
+		<wf pos="QC">وُہ</wf>
+		<wf pos="NN">ؤرۍ</wf>
+		<wf pos="PSP">شہِ</wf>
+		<wf pos="PRP">پنُن</wf>
+		<wf pos="NN">جوٲنی</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="JJ">رضاکارانہٕ</wf>
+		<wf pos="NN">تور</wf>
+		<wf pos="NN">مٔسیٖحس</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">اِنسٲنیَتَس</wf>
+		<wf pos="NN">آیِتَن</wf>
+		<wf pos="VM">تھٲوِتھ</wf>
+		<wf pos="NN">دُنیا</wf>
+		<wf pos="NN">ترک</wf>
+		<wf pos="VM">کوٚرمُت</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="JJ">ظٲلِم</wf>
+		<wf pos="NN">دُنیا</wf>
+		<wf pos="VM">رودس </wf>
+		<wf pos="RB">یور</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="JJ">پَتَے</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="22">
+		<wf pos="NN">کالٕچ</wf>
+		<wf pos="NN">لڑٲے</wf>
+		<wf pos="VAUX">ٲسس</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="VM">مشان</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="RB">دُبارٕ</wf>
+		<wf pos="VAUX">آسہٕ</wf>
+		<wf pos="DEM">تمہٕ</wf>
+		<wf pos="NN">کوچن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="RDP">دور</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="QC">اکہِ</wf>
+		<wf pos="NN">گرٕ</wf>
+		<wf pos="VM">کھسان</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="PRP">بیٚیہِ</wf>
+		<wf pos="VM">وسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="23">
+		<wf pos="NN">یوٚتامَتھ</wf>
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="NN">آنگنس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">ووتُس</wf>
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="VM">روٗد</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="NN">یادٕے</wf>
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="WQ">ما</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">درویش</wf>
+		<wf pos="RP">صٲبس</wf>
+		<wf pos="PSP">نِش</wf>
+		<wf pos="VM">گژھُن</wf>
+		<wf pos="NN">آنگنس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">وٲتِتھ</wf>
+		<wf pos="VAUX">گٔیہِ</wf>
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="NN">موٗرژا</wf>
+		<wf pos="VM">پھیٖرِتھ</wf>
+		<wf pos="PRP">کمہِ</wf>
+		<wf pos="RB">چَمہٕ</wf>
+		<wf pos="POW">کھمہٕ</wf>
+		<wf pos="VM">آیوس</wf>
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="NN">گھرٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="RDP">دور</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="24">
+		<wf pos="NN">ژادر</wf>
+		<wf pos="POW">پٔٹ</wf>
+		<wf pos="VAUX">ٲس</wf>
+		<wf pos="RB">وُنہٕ</wf>
+		<wf pos="JJ">نٔوِے</wf>
+		<wf pos="DEM">تَمے</wf>
+		<wf pos="NN">موٗجوٗب</wf>
+		<wf pos="RB">رُودُے</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="PRP">تَس</wf>
+		<wf pos="CC">زَنتہٕ</wf>
+		<wf pos="PRP">پانَس</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="PRP">تِم</wf>
+		<wf pos="VAUX">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VM">دِژٕن</wf>
+		<wf pos="NN">ژادَر</wf>
+		<wf pos="NNC">پَچہِ</wf>
+		<wf pos="NN">تَھپھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="25">
+		<wf pos="CC">چوٗنٛکہِ</wf>
+		<wf pos="NN">عصرِ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="NN">زبانن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="CC">یا</wf>
+		<wf pos="NN">چھانبیٖن</wf>
+		<wf pos="VM">کرنُک</wf>
+		<wf pos="NN">تحقیٖق</wf>
+		<wf pos="INTF">وارِیاہ</wf>
+		<wf pos="RB">برٛۄنٛہہ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="RB">خاصکر</wf>
+		<wf pos="QC">اکوُہمہِ</wf>
+		<wf pos="NN">صٔدی</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="DEM">یُس</wf>
+		<wf pos="NNC">انفارمیشن</wf>
+		<wf pos="NN">ٹیکنالجی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="VM">کوٚر</wf>
+		<wf pos="DEM">اَتھ</wf>
+		<wf pos="NN">علمَس</wf>
+		<wf pos="INTF">وارِیاہ</wf>
+		<wf pos="NN">پوچھر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="26">
+		<wf pos="PRP">تِم</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="NN">چُچھن</wf>
+		<wf pos="PSP">والٮ۪ن</wf>
+		<wf pos="RP">تِہ</wf>
+		<wf pos="NN">ژم</wf>
+		<wf pos="NN">نٲرَن</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="VM">تیلان</wf>
+		<wf pos="CC">تٕہ</wf>
+		<wf pos="RB">أندٕرۍ</wf>
+		<wf pos="PSP">کنۍ</wf>
+		<wf pos="WQ">خبر</wf>
+		<wf pos="INTF">کۭتۍ</wf>
+		<wf pos="NN">اوٚبٕر</wf>
+		<wf pos="NN">لنگٔۍ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلناوان</wf>
+		<wf pos="CC">تٕہ</wf>
+		<wf pos="RB">پتٕہ</wf>
+		<wf pos="QC">اکہ</wf>
+		<wf pos="JJ">نَوِ</wf>
+		<wf pos="NN">موسمُک</wf>
+		<wf pos="NN">وٮ۪تار</wf>
+		<wf pos="VM">وُزناوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="27">
+		<wf pos="NN">ٲز</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NNC">انفارمیشن</wf>
+		<wf pos="NN">ٹیکنالجی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN">پٲنٛژم</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">چلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="28">
+		<wf pos="NN">زِنٛدگی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اہم</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">ِگُزور</wf>
+		<wf pos="NEG">ِنہٕ</wf>
+		<wf pos="PRP">ِتیمٕ</wf>
+		<wf pos="NN">گرٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="29">
+		<wf pos="QC">أکۍ</wf>
+		<wf pos="NN">نَوجوانن</wf>
+		<wf pos="VM">روٚٹ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلِتھ</wf>
+		<wf pos="NN">ژوٗر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="30">
+		<wf pos="RB">صُبحٲے</wf>
+		<wf pos="RDP">صُبحٲے</wf>
+		<wf pos="VAUX">گَژھہٕ</wf>
+		<wf pos="JJ">کھُلہٕ</wf>
+		<wf pos="NN">جایہِ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کَرٕنۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="31">
+		<wf pos="NNPC">سُیا</wf>
+		<wf pos="NNP">ڈرامہس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="NNPC">رازٕ</wf>
+		<wf pos="NNPC">للتا</wf>
+		<wf pos="NNP">دتیا</wf>
+		<wf pos="PSP">سٕنٛدِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">چۍ</wf>
+		<wf pos="NN">عکٲسی</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="JJ">آمٕژ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="32">
+		<wf pos="NNP">بَکتی</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">ہِنٛدی</wf>
+		<wf pos="NN">اَدبَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">سورَن</wf>
+		<wf pos="NN">دورٕ</wf>
+		<wf pos="NN">ناوٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">زانٛنہٕ</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="33">
+		<wf pos="NN">بیٛٲرِ</wf>
+		<wf pos="VM">روٚٹ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلِتھ</wf>
+		<wf pos="NN">گَگُر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="34">
+		<wf pos="VM">وٕنۍ</wf>
+		<wf pos="VM">کیٚنٕچ</wf>
+		<wf pos="NN">گُرۍ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">زینہِ</wf>
+		<wf pos="QC">ہُہ</wf>
+		<wf pos="JJ">سفید</wf>
+		<wf pos="JJ">گُرُے</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="35">
+		<wf pos="NN">جِسمانیتُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="DEM">کَتِہ</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="DEM">کوٚت</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">اِنسانَس</wf>
+		<wf pos="VM">واتہٕ</wf>
+		<wf pos="POW">ناوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="36">
+		<wf pos="NN">پُلیٖس</wf>
+		<wf pos="PSP">نہِ</wf>
+		<wf pos="RB">لٲٹھۍ</wf>
+		<wf pos="NN">چارج</wf>
+		<wf pos="VM">کَرنہٕ</wf>
+		<wf pos="PSP">پتہٕ</wf>
+		<wf pos="VM">تُٕج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">لۄکو</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="37">
+		<wf pos="NNP">گُپتا</wf>
+		<wf pos="NN">کالَس</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">تَوٲرِیخ</wf>
+		<wf pos="NN">دانو</wf>
+		<wf pos="JJ">سۄنہری</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VM">ووٚنمُت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="38">
+		<wf pos="NNPC">اَورنٛگزیب</wf>
+		<wf pos="NN">مرنہٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="VAUX">گوٚو</wf>
+		<wf pos="NNP">مۄغل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">خَتَم</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="39">
+		<wf pos="PRP">اَسہِ</wf>
+		<wf pos="VAUX">پَزِ</wf>
+		<wf pos="NN">گر</wf>
+		<wf pos="JJ">جلدی</wf>
+		<wf pos="VM">واتنہٕ</wf>
+		<wf pos="PSP">خاطٔر</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تلن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="40">
+		<wf pos="NNP">اَکبرُن</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNPC">مُغل</wf>
+		<wf pos="NNP">قبیلُک</wf>
+		<wf pos="NN">وۄتھ</wf>
+		<wf pos="NN">عروٗجس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="41">
+		<wf pos="NN">پۄہَل</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">کَھہَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">دُمبَس</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پَتہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="42">
+		<wf pos="JJ">پۄہَل</wf>
+		<wf pos="VM">کھوٚت</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تلان</wf>
+		<wf pos="RDP">تلان</wf>
+		<wf pos="NN">پہاڑس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="43">
+		<wf pos="NN">سٔرکیوٗلیٹری</wf>
+		<wf pos="NN">سِسٹَم</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">خوٗن</wf>
+		<wf pos="NN">جِسمٕکٮ۪ن</wf>
+		<wf pos="JJ">سٲرنٕے</wf>
+		<wf pos="NN">تانَن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="44">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="45">
+		<wf pos="CC">بےٚ</wf>
+		<wf pos="NN">لَگام</wf>
+		<wf pos="NN">گُر</wf>
+		<wf pos="VAUX">چھُ</wf>
+		<wf pos="NN">سَڑکہِ</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="46">
+		<wf pos="NN">رَباب</wf>
+		<wf pos="VM">وایَنُک</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">گو</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="47">
+		<wf pos="NNP">اَفغانِستانس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">گو</wf>
+		<wf pos="NN">لَڑایہِ</wf>
+		<wf pos="PRP">ہنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="48">
+		<wf pos="JJ">پرٛان</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNP">سَمنٛدٔری</wf>
+		<wf pos="NN">جہازٕس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NNP">عرب</wf>
+		<wf pos="VM">پٮ۪وان</wf>
+		<wf pos="VAUX">گژھن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="49">
+		<wf pos="NN">سِپاہس</wf>
+		<wf pos="VAUX">چھُ</wf>
+		<wf pos="RB">صُبحٲے</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">پٮ۪وان</wf>
+		<wf pos="VM">تلن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="50">
+		<wf pos="JJ">پرٛان</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">جَںٛگَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="INTF">کٕتیاہ</wf>
+		<wf pos="NN">جَنٛگجوٗ</wf>
+		<wf pos="NN">سَوار</wf>
+		<wf pos="JJ">شہیٖد</wf>
+		<wf pos="VM">گژھان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="51">
+		<wf pos="NNC">ٲزکہٕ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="DEM">یِم</wf>
+		<wf pos="NN">سِپاہ</wf>
+		<wf pos="NN">جَنٛگَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">ژٔلمٕتۍ</wf>
+		<wf pos="JJ">آسن</wf>
+		<wf pos="NN">تَمَن</wf>
+		<wf pos="VAUX">چھُ</wf>
+		<wf pos="VM">آو</wf>
+		<wf pos="NNP">مارشَل</wf>
+		<wf pos="VM">کَرنہٕ</wf>
+		<wf pos="VM">اٮ۪وان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="52">
+		<wf pos="JJ">پرٛان</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">رَباب</wf>
+		<wf pos="NN">وایَن</wf>
+		<wf pos="PSP">وٲلۍ</wf>
+		<wf pos="CC">بےٚ</wf>
+		<wf pos="NN">تال</wf>
+		<wf pos="VM">گٔژِھِتھ</wf>
+		<wf pos="NN">رَباب</wf>
+		<wf pos="VM">وایان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="53">
+		<wf pos="NN">پریشٲنین</wf>
+		<wf pos="PSP">ہنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="NN">گٔژِھِ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="VM">روزُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="54">
+		<wf pos="NN">زِنٛدگی</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="DEM">تِتھۍ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="JJ">واریاہ</wf>
+		<wf pos="VM">یوان</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">انسانس</wf>
+		<wf pos="NN">حوصلہٕ</wf>
+		<wf pos="VM">پُھٹان</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="55">
+		<wf pos="NN">پُہَل</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">چاروایَن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلناون</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="56">
+		<wf pos="NN">گَنٛٹی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN">ٹِن</wf>
+		<wf pos="VM">بوٗزِتھ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">بَچن</wf>
+		<wf pos="NN">کَلاسَس</wf>
+		<wf pos="VM">کُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="57">
+		<wf pos="NN">بیارِ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">دِژن</wf>
+		<wf pos="NNC">کۄکر</wf>
+		<wf pos="NN">پوٗتِس</wf>
+		<wf pos="NN">ۂٹِس</wf>
+		<wf pos="PSP">تل</wf>
+		<wf pos="NN">جپھ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VM">ژُھنُن</wf>
+		<wf pos="NN">کھیٚتھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="58">
+		<wf pos="NNC">ژِترٕ</wf>
+		<wf pos="NN">برٛٲر</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="RB">واریاہ</wf>
+		<wf pos="JJ">تیز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="59">
+		<wf pos="NN">زمیٖنس</wf>
+		<wf pos="NN">دانٛد</wf>
+		<wf pos="VM">واینان</wf>
+		<wf pos="RDP">واینان</wf>
+		<wf pos="VM">ژوٚل</wf>
+		<wf pos="QC">اکھ</wf>
+		<wf pos="NN">دانٛد</wf>
+		<wf pos="VM">تُجن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">یِپٔٹ</wf>
+		<wf pos="VM">پیٚیہِ</wf>
+		<wf pos="RB">پتھر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="60">
+		<wf pos="NNPC">پارلِمٮ۪نٛٹ</wf>
+		<wf pos="NNP">اِلٮ۪کشَنُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">چھہٕ</wf>
+		<wf pos="PRP">پرٛٮ۪تھ</wf>
+		<wf pos="PSP">طَرفہٕ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="VM">فوجچہٕ</wf>
+		<wf pos="NNP">چھۄکھ</wf>
+		<wf pos="VM">تَیار</wf>
+		<wf pos="VM">تھاونہٕ</wf>
+		<wf pos="VAUX">آمٕژ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="61">
+		<wf pos="NN">ترٛیتایُگ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NN">ژورو</wf>
+		<wf pos="NN">دورو</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">دٔیِم</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="DEM">یُس</wf>
+		<wf pos="JJ">بَہَن</wf>
+		<wf pos="NN">لَچَھن</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">شُنَمَتھَ</wf>
+		<wf pos="NN">ساسَن</wf>
+		<wf pos="NNP">ؤریَن</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN">مانٛنہٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="62">
+		<wf pos="NNC">رَمیش</wf>
+		<wf pos="VAUX">آو</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">اَوَل</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="63">
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کَرَنہٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="VAUX">گَژھہِ</wf>
+		<wf pos="VAUX">رَژھہِ</wf>
+		<wf pos="NN">ہٮ۪ناہ</wf>
+		<wf pos="NN">آرام</wf>
+		<wf pos="VM">کَرُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="64">
+		<wf pos="DEM">یَتھ</wf>
+		<wf pos="JJ">عجٲیِب</wf>
+		<wf pos="NN">گَرَس</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="VAUX">چھہِ</wf>
+		<wf pos="NN">مُغَل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">کۍ</wf>
+		<wf pos="JJ">واریاہ</wf>
+		<wf pos="NN">چیٖز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="65">
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="VAUX">گوس</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">گۄڈنُک</wf>
+		<wf pos="VM">یَنَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="JJ">ناکام</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="66">
+		<wf pos="NN">بگوان</wf>
+		<wf pos="NNP">رام</wf>
+		<wf pos="PSP">سٕنٛز</wf>
+		<wf pos="NN">عملہٕ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="JJ">جٔدیٖد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="NN">مَثال</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="67">
+		<wf pos="CC">یہٕ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">مانٛنہٕ</wf>
+		<wf pos="VAUX">آمٕژ</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="CC">زٕ</wf>
+		<wf pos="RB">ٲز</wf>
+		<wf pos="VAUX">چھ</wf>
+		<wf pos="JJ">خراب</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">چلان</wf>
+		<wf pos="NN">رُشوَت</wf>
+		<wf pos="VM">دٕننہٕ</wf>
+		<wf pos="RB">بَغٲر</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="PRP">کانٛہہ</wf>
+		<wf pos="NN">کٲم</wf>
+		<wf pos="VM">اَنٛدان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="68">
+		<wf pos="JJ">مُغَل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">کۍ</wf>
+		<wf pos="NN">قلعہ</wf>
+		<wf pos="VAUX">چھہِ</wf>
+		<wf pos="JJ">تعمیٖری</wf>
+		<wf pos="NN">فَنُک</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="JJ">اَصٕل</wf>
+		<wf pos="NN">نٔموٗنہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="69">
+		<wf pos="NNP">تیٚمِس</wf>
+		<wf pos="VM">توٚر</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="NN">کَپ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="70">
+		<wf pos="NNP">شامن</wf>
+		<wf pos="VM">زیٚن</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VM">توٚرُس</wf>
+		<wf pos="NN">گولڈٕ</wf>
+		<wf pos="NN">میڈل</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="71">
+		<wf pos="NN">کَنٛسَر</wf>
+		<wf pos="PSP">نِش</wf>
+		<wf pos="NN">گَژٕھہِ</wf>
+		<wf pos="NNP">خۄدا</wf>
+		<wf pos="VM">بَچاوُن</wf>
+		<wf pos="JJ">لَمغی</wf>
+		<wf pos="NN">نِظامہٕ</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">خوٗن</wf>
+		<wf pos="PSP">کہِ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="VAUX">ہٮ۪کہِ</wf>
+		<wf pos="NNC">کَنٛسر</wf>
+		<wf pos="NN">جِسمَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">پھوٗلِتھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="72">
+		<wf pos="NN">بیٛارِ</wf>
+		<wf pos="VM">روٚٹ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلِتھ</wf>
+		<wf pos="NN">گَگُر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="73">
+		<wf pos="NN">موج</wf>
+		<wf pos="JJ">تٔھچ</wf>
+		<wf pos="NN">شُرِس</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پَتہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="74">
+		<wf pos="NNP">انٹرنیٹ</wf>
+		<wf pos="NN">ایجاد</wf>
+		<wf pos="VM">گژھنہٕ</wf>
+		<wf pos="RB">پتہٕ</wf>
+		<wf pos="VM">گوٗ</wf>
+		<wf pos="NN">دنیاہس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="JJ">نوٗو</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="NN">شُروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="75">
+		<wf pos="NNC">ہَوٲیی</wf>
+		<wf pos="NN">جَہاز</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">وِڑنہٕ</wf>
+		<wf pos="RB">برٛونٛٹھ</wf>
+		<wf pos="NN">رَنوییَس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="76">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VM">آو</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="QC">ژوٗرِمِس</wf>
+		<wf pos="NN">دَرجَس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="77">
+		<wf pos="PRP">ییٚمِس</wf>
+		<wf pos="NN">پیاول</wf>
+		<wf pos="NN">ہونہِ</wf>
+		<wf pos="PSP">ہٕنٛدۍ</wf>
+		<wf pos="NN">بَچہٕ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="PRP">پرٛٮ۪تھ</wf>
+		<wf pos="PRP">کٲنٛسہِ</wf>
+		<wf pos="NN">وتہِ</wf>
+		<wf pos="JJ">پکوٕنِس</wf>
+		<wf pos="RB">پتہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="78">
+		<wf pos="NN">ہَمسایہٕ</wf>
+		<wf pos="PSP">سُنٛد</wf>
+		<wf pos="NN">نٮ۪چوٗ</wf>
+		<wf pos="VM">آو</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PRP">ترٛٮ۪مِس</wf>
+		<wf pos="NN">دَرجَس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="79">
+		<wf pos="JJ">مُغَل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">برٛونٛٹھ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNP">ہُنٛدُستان</wf>
+		<wf pos="NN">لۄکچَن</wf>
+		<wf pos="PSP">لۄکچَن</wf>
+		<wf pos="NN">رِیاسَتَن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">بٲگرٲوِتھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="80">
+		<wf pos="NN">کار</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="QC">وُہ</wf>
+		<wf pos="NN">میٖٹَر</wf>
+		<wf pos="NN">رَفتارِ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="81">
+		<wf pos="NNP">اِنٛکا</wf>
+		<wf pos="PSP">سُنٛد</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">روٗد</wf>
+		<wf pos="QC">کٔہمہِ</wf>
+		<wf pos="NN">صٔدی</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="QC">پَنٛدٲہمہِ</wf>
+		<wf pos="NN">صٔدی</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="82">
+		<wf pos="NNP">کشیر</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="RB">گنُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">چلان</wf>
+		<wf pos="NN">اِنسان</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="NN">گۄڈِٕ</wf>
+		<wf pos="NN">وَق</wf>
+		<wf pos="RP">کھۄتہٕ</wf>
+		<wf pos="INTF">زیٛادٕ</wf>
+		<wf pos="JJ">مَحفوٗظ</wf>
+		<wf pos="NN">مَحسوٗص</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="83">
+		<wf pos="NNP">شِنہٕ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">سۍ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">ٲس</wf>
+		<wf pos="JJ">زیٛادٕ</wf>
+		<wf pos="NN">شِنہٕ</wf>
+		<wf pos="NN">زوٗزات</wf>
+		<wf pos="NN">لَبنہٕ</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="84">
+		<wf pos="PRP">أس</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="JJ">شٔشتٕر</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">گزران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="85">
+		<wf pos="NNPC">ہَرٕش</wf>
+		<wf pos="NNP">وَردَنُن</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">تعمیٖری</wf>
+		<wf pos="NN">کامہِ</wf>
+		<wf pos="VM">کَرنہِ</wf>
+		<wf pos="PSP">لحاظٕ</wf>
+		<wf pos="INTF">سٮ۪ٹھاہ</wf>
+		<wf pos="JJ">برٛۄنٛہہ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="86">
+		<wf pos="NN">وۄستادَن</wf>
+		<wf pos="VM">تُلنوٚو</wf>
+		<wf pos="NN">طٲلبہِ</wf>
+		<wf pos="POW">عٔلِم</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">مٲدانَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="87">
+		<wf pos="NN">چُھٹی</wf>
+		<wf pos="PSP">ہٕنٛز</wf>
+		<wf pos="NN">بٮ۪ل</wf>
+		<wf pos="VM">بٔجۍ</wf>
+		<wf pos="DEM">تھٕے</wf>
+		<wf pos="VM">تُجۍ</wf>
+		<wf pos="NNP">موہَن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">گَرٕ</wf>
+		<wf pos="PSP">کُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="88">
+		<wf pos="CC">یِلِہ</wf>
+		<wf pos="NN">بُدھمتُک</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNP">پَٹنا</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNPC">پاٹلی</wf>
+		<wf pos="NNP">پُترٕ</wf>
+		<wf pos="NN">ناوٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="VM">زاننہٕ</wf>
+		<wf pos="VAUX">یوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="89">
+		<wf pos="NNP">ہِنٛدُستانَس</wf>
+		<wf pos="PSP">مَںٛز</wf>
+		<wf pos="VAUX">گوٚو</wf>
+		<wf pos="NNP">مُغل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">ختم</wf>
+		<wf pos="CC">یا</wf>
+		<wf pos="NN">اَںٛد</wf>
+		<wf pos="QC">۱۸</wf>
+		<wf pos="PSP">پٮ۪ٹھٕ</wf>
+		<wf pos="NN">۵۷</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="90">
+		<wf pos="RB">وٕنۍ</wf>
+		<wf pos="POW">کیٚنٕچ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">زینہِ</wf>
+		<wf pos="PSP">خٲطرِ</wf>
+		<wf pos="VM">کِر</wf>
+		<wf pos="NEG">نہِ</wf>
+		<wf pos="PRP">تیمۍ</wf>
+		<wf pos="JJ">محنت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="91">
+		<wf pos="NN">گاڑٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پَتہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">ٕتلنہ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="WQ">کیٛاہ</wf>
+		<wf pos="NN">فٲیدٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="92">
+		<wf pos="NNPC">مَحموٗد</wf>
+		<wf pos="NNP">گٲمِیَن</wf>
+		<wf pos="VM">کٔر</wf>
+		<wf pos="NN">شٲعری</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="JJ">نوو</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">شروع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="93">
+		<wf pos="NNPC">چار</wf>
+		<wf pos="NNP">میٖنار</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NNPC">قطب</wf>
+		<wf pos="NNP">شاہنِس</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RP">سۍ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">بناونہٕ</wf>
+		<wf pos="VAUX">آمُت</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="VM">ٕوچُھنہ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NN">صیاح</wf>
+		<wf pos="NNC">دُورِ</wf>
+		<wf pos="NN">دُورِ</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="94">
+		<wf pos="JJ">درٛۄجرُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">آسنہٕ</wf>
+		<wf pos="CC">باوجود</wf>
+		<wf pos="VAUX">چھٚے</wf>
+		<wf pos="NN">ڈاک</wf>
+		<wf pos="NN">ٹِکٹ</wf>
+		<wf pos="RB">وُنہِ</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="JJ">سرٛوج</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="95">
+		<wf pos="NN">مشیٖنی</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">آسنہٕ</wf>
+		<wf pos="CC">باوجود</wf>
+		<wf pos="VAUX">چھٚے</wf>
+		<wf pos="CC">بےٚ</wf>
+		<wf pos="NN">روزگٲری</wf>
+		<wf pos="RB">وُنہِ</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="96">
+		<wf pos="RB">تیز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلنہٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="NN">شانٛش</wf>
+		<wf pos="VM">کَھسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="97">
+		<wf pos="JJ">جِنسی</wf>
+		<wf pos="CC">بےٚ</wf>
+		<wf pos="NN">رحروی</wf>
+		<wf pos="PSP">ہِنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">آسنہٕ</wf>
+		<wf pos="PSP">کنہٕ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">اِنسان</wf>
+		<wf pos="RB">کَتِہ</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="WQ">کوٚت</wf>
+		<wf pos="VM">وُوٚتمُت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="98">
+		<wf pos="NNPC">پی</wf>
+		<wf pos="NNPC">ٹی</wf>
+		<wf pos="NNP">اوٗشا</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="JJ">بہتَریٖن</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">کرن</wf>
+		<wf pos="NN">واجین</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="99">
+		<wf pos="NN">بٖم</wf>
+		<wf pos="NN">دماک</wf>
+		<wf pos="VM">گٔژُھنہٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="PRP">مے</wf>
+		<wf pos="NN">بازرٕ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="100">
+		<wf pos="NNP">کشیر</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NNPC">بڑِ</wf>
+		<wf pos="NNPC">شاہ</wf>
+		<wf pos="NNP">صٲبنس</wf>
+		<wf pos="NN">وَقتس</wf>
+		<wf pos="NN">تَوٲرِیخ</wf>
+		<wf pos="NN">دانو</wf>
+		<wf pos="JJ">سۄنہری</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">ووٚنمُت</wf>
+		<wf pos="CC">یُتھ</wf>
+		<wf pos="JJ">سۄنٛہری</wf>
+		<wf pos="NN">موقٰعہٕ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NEG">نہٕ</wf>
+		<wf pos="RB">وُنہِ</wf>
+		<wf pos="PSP">کنہٕ</wf>
+		<wf pos="NN">نظرٕ</wf>
+		<wf pos="VM">گٔژھان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="101">
+		<wf pos="NN">زَنانہِ</wf>
+		<wf pos="PSP">ہٕنٛز</wf>
+		<wf pos="NN">کرٛٮ۪کھ</wf>
+		<wf pos="VM">بوٗزِتھ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">لُکھو</wf>
+		<wf pos="PRP">تیٚمِس</wf>
+		<wf pos="PSP">کُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="102">
+		<wf pos="NN">سِپہَو</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">رٔٹکھۍ</wf>
+		<wf pos="QC">زٕ</wf>
+		<wf pos="NN">حَملاوَر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="103">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">تُلن</wf>
+		<wf pos="PSP">والٮ۪ن</wf>
+		<wf pos="PSP">ہِنٛدِ</wf>
+		<wf pos="NN">وَقتُک</wf>
+		<wf pos="NN">حِساب</wf>
+		<wf pos="VM">تھاوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="104">
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="VM">وٲتۍ</wf>
+		<wf pos="QC">زٕ</wf>
+		<wf pos="NN">حِصہٕ</wf>
+		<wf pos="VM">نِنہٕ</wf>
+		<wf pos="PSP">وٲلۍ</wf>
+		<wf pos="QC">اَکی</wf>
+		<wf pos="NN">ساتہٕ</wf>
+		<wf pos="NN">مُقامَس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="105">
+		<wf pos="JJ">مُغَل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="JJ">واریاہ</wf>
+		<wf pos="NN">آثار</wf>
+		<wf pos="VM">بَنٛنہِ</wf>		
+		<wf pos="NN">وجہٕ</wf>
+		<wf pos="NN">مانٛنہِ</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="106">
+		<wf pos="NN">کُکرٕچ</wf>
+		<wf pos="NN">سیٖٹی</wf>
+		<wf pos="VM">بوٗزِتھ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">ماجہٕ</wf>
+		<wf pos="NN">کِچنَس</wf>
+		<wf pos="PSP">کُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="107">
+		<wf pos="RB">شورٕ</wf>
+		<wf pos="POW">دار</wf>
+		<wf pos="NN">پارٹی</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="RB">وۄنۍ</wf>
+		<wf pos="NN">شَرابُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">چَلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="108">
+		<wf pos="NN">مٲل</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">بور</wf>
+		<wf pos="NN">سارَن</wf>
+		<wf pos="PSP">وٲلِس</wf>
+		<wf pos="NN">موٚزوٗرَس</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پَتہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="109">
+		<wf pos="PRP">تیٚمۍ</wf>
+		<wf pos="PSP">سنٛد</wf>
+		<wf pos="NN">زِنٛدگی</wf>
+		<wf pos="PSP">ہِنٛد</wf>
+		<wf pos="RB">سٲری</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">روٗد</wf>
+		<wf pos="RB">زیٛاد</wf>
+		<wf pos="PSP">تر</wf>
+		<wf pos="JJ">مُتٲثِر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="110">
+		<wf pos="NN">شُرۍ</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">لٔچہِ</wf>
+		<wf pos="RB">روٚس</wf>
+		<wf pos="NNC">کینٛکہٕ</wf>
+		<wf pos="NN">لَچہِ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پَتہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="111">
+		<wf pos="NN">میٲنہِ</wf>
+		<wf pos="NN">زِنٛدَگی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اِبتدٲیی</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">اوٚس</wf>
+		<wf pos="RB">واریاہ</wf>
+		<wf pos="JJ">سخٕت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="112">
+		<wf pos="NN">مُشٲعرُک</wf>
+		<wf pos="QC">ترٛییِم</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="NN">گوو</wf>
+		<wf pos="JJ">خراب</wf>
+		<wf pos="NN">موسم</wf>
+		<wf pos="VM">اَسنہٕ</wf>
+		<wf pos="CC">کنہٕ</wf>
+		<wf pos="JJ">ملتوی</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="113">
+		<wf pos="JJ">پرون</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">اصٕل</wf>
+		<wf pos="JJ">سٲری</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">دۄہ</wf>
+		<wf pos="RP">دِش</wf>ییٚتہِ
+		<wf pos="PSP">چین</wf>
+		<wf pos="NN">کامین</wf>
+		<wf pos="PSP">نِشہِ</wf>
+		<wf pos="JJ">فارِغ</wf>
+		<wf pos="VAUX">سپدِتھ</wf>
+		<wf pos="NN">شامن</wf>
+		<wf pos="NN">اِکہٕ</wf>
+		<wf pos="NN">وۄٹہٕ</wf>
+		<wf pos="VM">بِہِتھ</wf>
+		<wf pos="NN">دٔلیٖل</wf>
+		<wf pos="VM">بوزان</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="PRP">یُس</wf>
+		<wf pos="QC">اکھ</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="NN">دٔلیٖل</wf>
+		<wf pos="VM">بوزناوان</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="PRP">تس</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">دٔلیٖلہٕ</wf>
+		<wf pos="RDP">گوٚر</wf>
+		<wf pos="VM">ونان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="114">
+		<wf pos="NNP">کاشی</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">علِمُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="NN">پرانہٕ</wf>
+		<wf pos="PSP">پٹھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="115">
+		<wf pos="JJ">پرونِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NNP">مِیَر</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">شہرُک</wf>
+		<wf pos="PRP">سارٕوٕے</wf>
+		<wf pos="RP">کھۄتہٕ</wf>
+		<wf pos="JJ">بوٚڈ</wf>
+		<wf pos="NN">افسَر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="116">
+		<wf pos="JJ">پرونِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">دانٛدٕ</wf>
+		<wf pos="NNP">گٲڈی</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="QC">اَکہِ</wf>
+		<wf pos="NN">جایہِ</wf>
+		<wf pos="PSP">پٮ۪ٹھٕ</wf>
+		<wf pos="PRP">بیٚیِس</wf>
+		<wf pos="NN">جایہِ</wf>
+		<wf pos="PSP">تام</wf>
+		<wf pos="VM">گَژھنُک</wf>
+		<wf pos="NN">زٔرۍیہِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="117">
+		<wf pos="DEM">سُہ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">پرونِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">غۄلامَن</wf>
+		<wf pos="PSP">ہٕنٛز</wf>
+		<wf pos="NN">خریٖد</wf>
+		<wf pos="CC">و</wf>
+		<wf pos="NN">فروخت</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="VM">سَپدان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="118">
+		<wf pos="RB">از</wf>
+		<wf pos="RDP">کل</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NNP">دیکھا</wf>
+		<wf pos="POW">دیٖکھۍ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="PRP">پرٛٮ۪تھ</wf>
+		<wf pos="PRP">کانٛہہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="PRP">بیٚیِس</wf>
+		<wf pos="NN">نقٕل</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="119">
+		<wf pos="JJ">پرون</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">مَزدار</wf>
+		<wf pos="NN">کوٖرِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="VM">نیرُن</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="VM">سجان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="120">
+		<wf pos="DEM">ستہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">جنگس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="JJ">کنہِ</wf>
+		<wf pos="NN">بندوٗقُک</wf>
+		<wf pos="NN">استعمال</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="VAUX">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="121">
+		<wf pos="DEM">ستہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">گج</wf>
+		<wf pos="NN">نالن</wf>
+		<wf pos="PSP">ہُند</wf>
+		<wf pos="NN">استعمال</wf>
+		<wf pos="NN">جنگن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="VAUX">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="122">
+		<wf pos="NN">برہمس</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="DEM">سُہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">لُکھ</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">چوٚسر</wf>
+		<wf pos="VM">گنٛدان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="123">
+		<wf pos="DEM">سُہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">ییٚلہِ</wf>
+		<wf pos="NN">بادشاہن</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NN">واو</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="NN">چاورِک</wf>
+		<wf pos="VM">آسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="124">
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="NN">چیٖز</wf>
+		<wf pos="QC">کیٖمۍ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">پٮ۪ٹھٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">اِستعمال</wf>
+		<wf pos="VAUX">یِوان</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="125">
+		<wf pos="NNPC">اَورنٛگ</wf>
+		<wf pos="NNP">زیبَنہِ</wf>
+		<wf pos="VM">مرنہٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="NNP">مۄغل</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="NN">خَتَم</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="126">
+		<wf pos="QO">دوٚیمہِ</wf>
+		<wf pos="JJ">عالمی</wf>
+		<wf pos="RDP">جنٛگہٕ</wf>
+		<wf pos="NN">پَتُک</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">روٗد</wf>
+		<wf pos="INTF">بَڑٕ</wf>
+		<wf pos="NN">اَصل</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="127">
+		<wf pos="DEM">یہٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">دنیاہُک</wf>
+		<wf pos="RB">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="RB">ونہٕ</wf>
+		<wf pos="POW">کنہٕ</wf>
+		<wf pos="VM">چلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="128">
+		<wf pos="DEM">اَتھ</wf>
+		<wf pos="JJ">وٲنکۍ</wf>
+		<wf pos="NN">مستہٕ</wf>
+		<wf pos="PSP">چِہ</wf>
+		<wf pos="NN">سُمِہ</wf>
+		<wf pos="VAUX">ٲس</wf>
+		<wf pos="NN">آوَر</wf>
+		<wf pos="NN">واوَر</wf>
+		<wf pos="PSP">ہِش</wf>
+		<wf pos="VM">گٲمٕژ</wf>
+		<wf pos="PSP">زن</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">تیز</wf>
+		<wf pos="NN">ہواوَس</wf>
+		<wf pos="NN">شِنیاہ</wf>
+		<wf pos="PSP">مٔنزۍ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="RDP">دور</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="PSP">آمُت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="129">
+		<wf pos="NN">لانٛپہ</wf>
+		<wf pos="VM">ترٛاوان</wf>
+		<wf pos="RDP">ترٛاوان</wf>
+		<wf pos="VM">پے</wf>
+		<wf pos="PRP">مے</wf>
+		<wf pos="QC">اکس</wf>
+		<wf pos="NN">پُلسہ</wf>
+		<wf pos="PSP">والس</wf>
+		<wf pos="VM">کُن</wf>
+		<wf pos="NN">نظر</wf>
+		<wf pos="DEM">یُس</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="NN">حِصہٕ</wf>
+		<wf pos="VM">ننٛہ</wf>
+		<wf pos="PSP">خٲطر</wf>
+		<wf pos="NN">عدالتہ</wf>
+		<wf pos="PSP">کِس</wf>
+		<wf pos="NN">آنگنس</wf>
+		<wf pos="PSP">اندر</wf>
+		<wf pos="NN">صُبحہٕ</wf>
+		<wf pos="PSP">پٮ۪ٹھے</wf>
+		<wf pos="NN">پیاران</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="130">
+		<wf pos="NN">کش</wf>
+		<wf pos="POW">مٕکشُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">آسنہٕ</wf>
+		<wf pos="PSP">کِنۍ</wf>
+		<wf pos="VM">چھہٕ</wf>
+		<wf pos="NNP">بشیٖرٕنۍ</wf>
+		<wf pos="NN">گھرِکۍ</wf>
+		<wf pos="JJ">لٲزۍمی</wf>
+		<wf pos="PSP">طور</wf>
+		<wf pos="PRP">أہنٛزن</wf>
+		<wf pos="NN">ژھاٮَ۪ن</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="NN">گرٛایَن</wf>
+		<wf pos="VM">زاگان</wf>
+		<wf pos="VAUX">أسۍ</wf>
+		<wf pos="PSP">مٕتۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="131">
+		<wf pos="DEM">یہٕ</wf>
+		<wf pos="VAUX">چُھہ</wf>
+		<wf pos="DEM">سُہ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="DEM">ییمۍ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="NNP">بشیرن</wf>
+		<wf pos="NNPC">عش</wf>
+		<wf pos="NNP">دیٚدِہ</wf>
+		<wf pos="VAUX">ہُندِہ</wf>
+		<wf pos="NN">گھرِہ</wf>
+		<wf pos="NNP">ہاجس</wf>
+		<wf pos="PRP">پانہٕ</wf>
+		<wf pos="VM">سمکھُن</wf>
+		<wf pos="JJ">نامُنٲسب</wf>
+		<wf pos="VM">زونمُت</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="132">
+		<wf pos="NNP">چپلِن</wf>
+		<wf pos="PSP">سُنٛد</wf>
+		<wf pos="NN">واٹھ</wf>
+		<wf pos="VM">اوس</wf>
+		<wf pos="WQ">کتہِ</wf>
+		<wf pos="RB">کور</wf>
+		<wf pos="POW">ٲکس</wf>
+		<wf pos="JJ">سوکھ</wf>
+		<wf pos="POW">سٲوِس</wf>
+		<wf pos="NN">دنیاہس</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="DEM">یَتھ</wf>
+		<wf pos="NN">منز</wf>
+		<wf pos="PRP">تس</wf>
+		<wf pos="PRP">پننِس</wf>
+		<wf pos="JJ">پرتھ</wf>
+		<wf pos="PSP">کُنِہ</wf>
+		<wf pos="NN">سوالَس</wf>
+		<wf pos="NN">جواب</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="VM">میلان</wf>
+		<wf pos="RB">ییٚلِہ</wf>
+		<wf pos="POW">زن</wf>
+		<wf pos="PRP">سانہِ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="PSP">کۍ</wf>
+		<wf pos="NN">حالاتھ</wf>
+		<wf pos="INTF">زیادَے</wf>
+		<wf pos="JJ">کریٖٹھۍ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="133">
+		<wf pos="RB">وۄن</wf>
+		<wf pos="VAUX">گۄو</wf>
+		<wf pos="PRP">اَسِہ</wf>
+		<wf pos="RP">تہِ</wf>
+		<wf pos="VAUX">چھٚے</wf>
+		<wf pos="NN">چپلنس</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="RDP">پتہٕ</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">تٲومٕژ</wf>
+		<wf pos="DEM">تتھ</wf>
+		<wf pos="WQ">کیاہ</wf>
+		<wf pos="VAUX">آسہِ</wf>
+		<wf pos="NN">انجام</wf>
+		<wf pos="DEM">تمیٛک</wf>
+		<wf pos="NEG">چُھنہٕ</wf>
+		<wf pos="PRP">کانٛہہ</wf>
+		<wf pos="NN">پَے</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="134">
+		<wf pos="INTF">واریاہ</wf>
+		<wf pos="RB">برٛۄنٛٹھ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VAUX">اوسمُت</wf>
+		<wf pos="JJ">غۄلٲمی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="135">
+		<wf pos="PRP">مےٚ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="DEM">یہِ</wf>
+		<wf pos="NN">بٮ۪مارِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="RB">وۄن</wf>
+		<wf pos="PSP">تہٕ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">یاد</wf>
+		<wf pos="VM">پٮ۪وٚان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="136">
+		<wf pos="JJ">مٲلی</wf>
+		<wf pos="NN">مُشکِلاتَن</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">اَسنہٕ</wf>
+		<wf pos="PSP">کنہٕ</wf>
+		<wf pos="VAUX">پَزِ</wf>
+		<wf pos="PRP">ٲسہِ</wf>
+		<wf pos="JJ">کم</wf>
+		<wf pos="RDP">کم</wf>
+		<wf pos="NN">خرچ</wf>
+		<wf pos="VM">کرُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="137">
+		<wf pos="RB">وۄن</wf>
+		<wf pos="PSP">کنہٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="PRP">اَسہِ</wf>
+		<wf pos="NN">پَرنُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="DEM">یتٚھ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">پَزِ</wf>
+		<wf pos="JJ">غلط</wf>
+		<wf pos="NN">کامیوو</wf>
+		<wf pos="PSP">نِش</wf>
+		<wf pos="NN">پرہیز</wf>
+		<wf pos="VM">کرُن</wf>
+		<wf pos="RB">تیٚلہٕ</wf>
+		<wf pos="VAUX">ہِیکو</wf>
+		<wf pos="PSP">ٲس</wf>
+		<wf pos="RB">بتھ</wf>
+		<wf pos="JJ">کامیاب</wf>
+		<wf pos="VM">گژتھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="138">
+		<wf pos="JJ">منٛزمۍ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="DEM">یتھ</wf>
+		<wf pos="NN">کِتاب</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="RB">پوٗرپٲٹھۍ</wf>
+		<wf pos="NN">بیان</wf>
+		<wf pos="VM">کرتھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="139">
+		<wf pos="NN">ونکینُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">بوندبسکہ</wf>
+		<wf pos="NN">مسلُک</wf>
+		<wf pos="NN">سامنہ</wf>
+		<wf pos="QC">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="140">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">وُنکٮ۪س</wf>
+		<wf pos="NN">جوٲنی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="JJ">غلط</wf>
+		<wf pos="NN">کامیٛن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">گَزاران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="141">
+		<wf pos="JJ">اِسلٲمی</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">غلامَس</wf>
+		<wf pos="NN">آزٲدی</wf>
+		<wf pos="VM">دِنۍ</wf>
+		<wf pos="PSP">رنٛگ</wf>
+		<wf pos="VM">ماننہٕ</wf>
+		<wf pos="PSP">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="142">
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلنہٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="VAUX">گَژھہِ</wf>
+		<wf pos="NN">رَژھہِ</wf>
+		<wf pos="POW">ہٮ۪ناہ</wf>
+		<wf pos="NN">آرام</wf>
+		<wf pos="VM">کَرُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="143">
+		<wf pos="NN">شُرۍ</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="NNP">دٔریا</wf>
+		<wf pos="NN">بوٚٹھس</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="144">
+		<wf pos="DEM">ییٚمہِ</wf>
+		<wf pos="NN">ؤری</wf>
+		<wf pos="VM">زیٖنۍ</wf>
+		<wf pos="QC">أکۍ</wf>
+		<wf pos="JJ">ٹَنٛکَن</wf>
+		<wf pos="NN">گُرۍ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="145">
+		<wf pos="NN">ٹرٛینَرن</wf>
+		<wf pos="VM">تٔھکرٲوۍ</wf>
+		<wf pos="NN">کھِلٲڑۍ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کرنٲوۍ</wf>
+		<wf pos="RDP">کرنٲوۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="146">
+		<wf pos="NN">مٲدانَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="PRP">ٲس</wf>
+		<wf pos="JJ">واریاہنٛ</wf>
+		<wf pos="NN">پَہَلوانٛن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">چلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="147">
+		<wf pos="NN">ژوٗر</wf>
+		<wf pos="VM">رَٹنہٕ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="VM">تُجٕ</wf>
+		<wf pos="PRP">ٲس</wf>
+		<wf pos="RB">واریاہ</wf>
+		<wf pos="JJ">تیز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="148">
+		<wf pos="NN">گُر</wf>
+		<wf pos="NN">سوَار</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">زینٛنہٕ</wf>
+		<wf pos="PSP">خٲطر</wf>
+		<wf pos="RB">واریاہ</wf>
+		<wf pos="JJ">کوشش</wf>
+		<wf pos="VM">کران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="149">
+		<wf pos="JJ">سیاہ</wf>
+		<wf pos="NNP">گوش</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="RB">تیز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="150">
+		<wf pos="NN">سیٛناپٔتی</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN">سُلیمانس</wf>
+		<wf pos="NN">ژُپنٛجہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلناوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="151">
+		<wf pos="PRP">مہٕ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">تَھپھ</wf>
+		<wf pos="NN">دنَس</wf>
+		<wf pos="PSP">لایَق</wf>
+		<wf pos="NN">چیٖزَن</wf>
+		<wf pos="PSP">کُن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="152">
+		<wf pos="NNP">اَبرَسس</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="RB">واریاہ</wf>
+		<wf pos="JJ">تیز</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="153">
+		<wf pos="NN">ٹیلیٖفونٕچ</wf>
+		<wf pos="NN">بیل</wf>
+		<wf pos="VM">بوٗزِتھ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="PRP">تِم</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">رِسیٖوَر</wf>
+		<wf pos="VM">تُلنہٕ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="154">
+		<wf pos="NN">سِپاہ</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="NN">مُشکیَس</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلناوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="155">
+		<wf pos="NNP">صمدِس</wf>
+		<wf pos="VM">باسیِیِہ</wf>
+		<wf pos="NN">موج</wf>
+		<wf pos="NN">آکاشس</wf>
+		<wf pos="PSP">منز</wf>
+		<wf pos="NN">آلَو</wf>
+		<wf pos="VM">دِوان</wf>
+		<wf pos="RP">ہیو</wf>
+		<wf pos="VM">ڈولہِکھا</wf>
+		<wf pos="PRP">ژِہ</wf>
+		<wf pos="PRP">تِمہ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="PRP">سُو</wf>
+		<wf pos="VM">گوو</wf>
+		<wf pos="NN">بھاین</wf>
+		<wf pos="QC">دۄن</wf>
+		<wf pos="RB">پتہٕ</wf>
+		<wf pos="RDP">پتہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="156">
+		<wf pos="CC">یُتھ</wf>
+		<wf pos="JJ">سۄنٛہری</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="WQ">ٕکار</wf>
+		<wf pos="VM">یِیہٕ</wf>
+		<wf pos="RB">بٮ۪یہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="157">
+		<wf pos="JJ">توٲریٖخی</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">وچھٚان</wf>
+		<wf pos="VM">وچھٚان</wf>
+		<wf pos="VAUX">چھٚے</wf>
+		<wf pos="PRP">اسہِ</wf>
+		<wf pos="NN">مندرن</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">سیوا</wf>
+		<wf pos="VM">کرن</wf>
+		<wf pos="PSP">واجِنٮ۪ن</wf>
+		<wf pos="NN">کورٮ۪ن</wf>
+		<wf pos="PSP">ہنزٕ</wf>
+		<wf pos="JJ">کۭژٕ</wf>
+		<wf pos="NN">مثالہٕ</wf>
+		<wf pos="VM">میلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="158">
+		<wf pos="NN">یہٕ</wf>
+		<wf pos="JJ">زیادتی</wf>
+		<wf pos="NN">ختم</wf>
+		<wf pos="VM">گَژھنہٕ</wf>
+		<wf pos="RB">پَتہٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="PRP">بیاکھ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VM">شُروٗع</wf>
+		<wf pos="VM">گَژھان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="159">
+		<wf pos="JJ">پرانہٕ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="VAUX">چھِ</wf>
+		<wf pos="NN">شِولِنٛگٕچ</wf>
+		<wf pos="NN">پوٗجا</wf>
+		<wf pos="VAUX">یِوان</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="160">
+		<wf pos="RB">اَز</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="JJ">موبایِل</wf>
+		<wf pos="NN">فونَن</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="161">
+		<wf pos="PRP">تَس</wf>
+		<wf pos="VAUX">ٲس</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کرنہٕ</wf>
+		<wf pos="PSP">سۭتۍ</wf>
+		<wf pos="NN">شانٛش</wf>
+		<wf pos="VM">کٔھژمٕژ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="162">
+		<wf pos="DEM">یہٕ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="CC">تہٕ</wf>
+		<wf pos="VM">روزنہٕ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="163">
+		<wf pos="PRP">تیٚمہِ</wf>
+		<wf pos="PSP">سنٛد</wf>
+		<wf pos="DEM">یہٕ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">وٕچھِتھ</wf>
+		<wf pos="VM">گٔیَس</wf>
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="JJ">حٲران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="164">
+		<wf pos="PRP">تیٚمو</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="NN">نیوٗکھ</wf>
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="NN">ہَسپِتال</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="165">
+		<wf pos="PRP">تیٚمہِ</wf>
+		<wf pos="VM">تُج</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="QC">اَکہِ</wf>
+		<wf pos="NN">جایہِ</wf>
+		<wf pos="PSP">پٮ۪ٹھہٕ</wf>
+		<wf pos="DEM">بیٚیِس</wf>
+		<wf pos="NN">جایہِ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="166">
+		<wf pos="NN">سُہٕ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">یَلہِ</wf>
+		<wf pos="VM">زوٗنۍ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">پُرواشاڈا</wf>
+		<wf pos="NN">تارک</wf>
+		<wf pos="NN">مَنڑلَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">آسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="167">
+		<wf pos="PRP">تٔمۍ</wf>
+		<wf pos="PSP">سُنٛد</wf>
+		<wf pos="NN">بٕجرُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">گُزریوو</wf>
+		<wf pos="JJ">واریاہ</wf>
+		<wf pos="NN">مُشکِلَس</wf>
+		<wf pos="PSP">مَنٛز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="168">
+		<wf pos="PRP">تِمَن</wf>
+		<wf pos="VM">پیٛاران</wf>
+		<wf pos="RDP">پیٛاران</wf>
+		<wf pos="NN">گُزریو</wf>
+		<wf pos="QC">اَکھ</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="169">
+		<wf pos="PRP">بہٕ</wf>
+		<wf pos="VAUX">چُھس</wf>
+		<wf pos="NN">سُہٕ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">اَصٕل</wf>
+		<wf pos="PSP">پٮ۪ٹھ</wf>
+		<wf pos="VM">زانان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="170">
+		<wf pos="JJ">پرٛتھ</wf>
+		<wf pos="NN">ٲکِس</wf>
+		<wf pos="VAUX">چِھ</wf>
+		<wf pos="NN">زِنٛدگی</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="JJ">اَلگ</wf>
+		<wf pos="NN">قٕسمٕک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VM">یِوان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="171">
+		<wf pos="NN">کالجک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">وارِیاہ</wf>
+		<wf pos="NN">مٔستی</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="172">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="RB">یٔلِہ</wf>
+		<wf pos="PRP">کانٛہہ</wf>
+		<wf pos="JJ">مخصوٗص</wf>
+		<wf pos="NN">کٲم</wf>
+		<wf pos="CC">یا</wf>
+		<wf pos="NN">واقعہٕ</wf>
+		<wf pos="VAUX">آسِہ</wf>
+		<wf pos="VM">گوٚمُت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="173">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">اوس</wf>
+		<wf pos="JJ">ناموَر</wf>
+		<wf pos="NN">فَنکارن</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="174">
+		<wf pos="CC">یہٕ</wf>
+		<wf pos="NN">کٲم</wf>
+		<wf pos="VM">کَرنُک</wf>
+		<wf pos="NN" sense_id="5">دور</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">آمُت</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="175">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="JJ">بَرابَر</wf>
+		<wf pos="PRP">پَنٛنہِ</wf>
+		<wf pos="NN">گَرِ</wf>
+		<wf pos="PSP">پٮ۪ٹھہٕ</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">انان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="176">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="VM">وَقتُس</wf>
+		<wf pos="PSP">پٮ۪ٹھہٕ</wf>
+		<wf pos="JJ">بَرابَر</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="JJ">مُکمل</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="177">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="VM">کَرنہٕ</wf>
+		<wf pos="PSP">خٲطرٕ</wf>
+		<wf pos="NN">وقت</wf>
+		<wf pos="NN">مُقرَر</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="178">
+		<wf pos="NNP">پُلیٖسَن</wf>
+		<wf pos="VM">کَرنٲو</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="JJ">بَرابَر</wf>
+		<wf pos="QC">ژورن</wf>
+		<wf pos="NN">گنٹن</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="179">
+		<wf pos="NN">شام</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="PRP">پَننِس</wf>
+		<wf pos="NN">باغس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="RB">ہَمیشہ</wf>
+		<wf pos="QC">ژورن</wf>
+		<wf pos="NN">گنٹن</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">تُلان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="180">
+		<wf pos="NNPC">مَنٛجیت</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="RB">ہَمیشہ</wf>
+		<wf pos="NN">پَننہ</wf>
+		<wf pos="PSP">ژاٹھہٕ</wf>
+		<wf pos="NN">بوج</wf>
+		<wf pos="NN">مَنیشا</wf>
+		<wf pos="NN">ہِنٛدٕس</wf>
+		<wf pos="NN">گَرَس</wf>
+		<wf pos="NN">نٕش</wf>
+		<wf pos="RB">اور</wf>
+		<wf pos="RDP">یور</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="VM">آسان</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="181">
+		<wf pos="PRP">سُہ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="JJ">گول</wf>
+		<wf pos="NN">کَنہِ</wf>
+		<wf pos="VM">اند</wf>
+		<wf pos="JJ">اند</wf>
+		<wf pos="NN" sense_id="3">دور</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="182">
+		<wf pos="JJ">پرٛانہِ</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="VAUX">ٲس</wf>
+		<wf pos="NNP">بادشاہ</wf>
+		<wf pos="NN">جَنٛگلَس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">شِکار</wf>
+		<wf pos="VM">کَران</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="183">
+		<wf pos="NN">تُگلُک</wf>
+		<wf pos="PSP">سٕنٛدِس</wf>
+		<wf pos="NN" sense_id="1">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VAUX">ٲسۍ</wf>
+		<wf pos="PRP">تٔمۍ</wf>
+		<wf pos="PSP">سٕنٛدِ</wf>
+		<wf pos="NN">ناوٕکۍ</wf>
+		<wf pos="NN">سِککہٕ</wf>
+		<wf pos="NN">رٲیج</wf>s
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="184">
+		<wf pos="NN">کالج</wf>
+		<wf pos="VM">گو</wf>
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">نیبر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="185">
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">رود</wf>
+		<wf pos="NN">مُتٲثِر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="186">
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="WQ">کارٕ</wf>
+		<wf pos="PSP">پٮ۪ٹھٕ</wf>
+		<wf pos="VAUX">چُھ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="187">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="WQ">کارٕ</wf>
+		<wf pos="PSP">پٮ۪ٹھٕ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="188">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">رود</wf>
+		<wf pos="JJ">اَصٕل</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="189">
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">دٔیمِ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="NN">پوٗر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="190">
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="NEG">نہ</wf>
+		<wf pos="NN">پوٗر</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="191">
+		<wf pos="NN">صبحس</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">کھیلہِ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="192">
+		<wf pos="NN">صبحس</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="193">
+		<wf pos="NN">راتُک</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="RB">ونۍ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="194">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="JJ">ملتوی</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="195">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="RB">ونۍ</wf>
+		<wf pos="JJ">ملتوی</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="196">
+		<wf pos="NN">صبحس</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="NN">کرکٹُک</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="NN">شُروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="197">
+		<wf pos="NN">ٹُینسُک</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="RB">ونۍ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="198">
+		<wf pos="NN">ٹُینسُک</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="JJ">ملتوی</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="199">
+		<wf pos="NN">کرکٹُک</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="NNP">دلہ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="200">
+		<wf pos="NN">ٹُینسُک</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="RB">ونۍ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="201">
+		<wf pos="NNP">دلہ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="VM">گژھن</wf>
+		<wf pos="RP">وول</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھہ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گژھ</wf>
+		<wf pos="NN">صبحس</wf>
+		<wf pos="NN">شُروٗع</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="202">
+		<wf pos="JJ">خراب</wf>
+		<wf pos="NN">موسم</wf>
+		<wf pos="VM">اَسنہٕ</wf>
+		<wf pos="CC">کنہٕ</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="NN">ٹُینسُک</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="JJ">ملتوی</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="203">
+		<wf pos="RB">ونۍ</wf>
+		<wf pos="VAUX">چھےٚ</wf>
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">بیاکھ</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="NNP">دلہ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="204">
+		<wf pos="NN">کتھ</wf>
+		<wf pos="RDP">باتھ</wf>
+		<wf pos="PSP">ہُنٛد</wf>
+		<wf pos="JJ">اَخری</wf>
+		<wf pos="NN" sense_id="4">دور</wf>
+		<wf pos="VM">گۄو</wf>
+		<wf pos="NN">راتھ</wf>
+		<wf pos="NNP">دلہ</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="205">
+		<wf pos="DEM">یٔمۍ</wf>
+		<wf pos="NN">سکولن</wf>
+		<wf pos="VM">زین</wf>
+		<wf pos="NN">راتھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="206">
+		<wf pos="DEM">یتھ</wf>
+		<wf pos="NN">مٲدانس</wf>
+		<wf pos="PSP">منٛز</wf>
+		<wf pos="NN">ٲسۍ</wf>
+		<wf pos="NN">راتھ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="207">
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="NN">زینن</wf>
+		<wf pos="POW">وٲلس</wf>
+		<wf pos="VAUX">اَو</wf>
+		<wf pos="NN">انعام</wf>
+		<wf pos="VM">دٔینۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+	<sentence s_id="208">
+		<wf pos="DEM">تٔیمۍ</wf>
+		<wf pos="VM">زینۍ</wf>
+		<wf pos="NN" sense_id="2">دور</wf>
+		<wf pos="POW">تہٕ</wf>
+		<wf pos="VAUX">اَوس</wf>
+		<wf pos="NN">انعام</wf>
+		<wf pos="VM">دٔینۍ</wf>
+		<wf pos="SYM">۔</wf>
+	</sentence>
+</contextfile>
